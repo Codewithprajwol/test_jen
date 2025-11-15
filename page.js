@@ -1,1 +1,1 @@
-console.log('stop stocking me!');
+console.log'stop stocking me!');
