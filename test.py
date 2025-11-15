@@ -1,1 +1,1 @@
-console.log'stop stocking me!')
+print"helloboy")
